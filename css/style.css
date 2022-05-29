@@ -623,12 +623,14 @@ pre code {
   .container, .container-sm, .container-md, .container-lg {
     max-width: 960px;
   }
+	
 }
 
 @media (min-width: 1200px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl {
     max-width: 1140px;
   }
+	
 }
 
 .row {
@@ -9860,6 +9862,46 @@ h6,
     width: 15px;
     height: 15px;
   }
+	.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    top: 84px;
+    z-index: 99;
+    background: #fff;
+    width: 150px;
+    padding: 5px;
+}
+	.about-us .h-100 {
+    height: 397px !important;
+}
+	.bg-testimonial {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/bg-bt.jpg), no-repeat center center;
+    background-repeat: repeat, repeat, no-repeat;
+    background-size: auto, auto, auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 141px;
+}
+	.navbar-brand img {
+  width: 50% !important;
+}
+	.meet-one .container.py-5 {
+  padding-top: 0px !important;
+}
+	.container-fluid.py-5.meet-one {
+  padding-bottom: 0px !important;
+}
+.lorum-ip .container.py-5 {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+	.bg-dark .row.pt-5 {
+  padding-top: 0px !important;
+}
+	
 }
 
 @media (max-width: 575.98px) {
@@ -9875,6 +9917,25 @@ h6,
     font-weight: 400;
     padding: 5px 12px !important;
   }
+	.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    top: 57px;
+    z-index: 99;
+    background: #fff;
+    width: 150px;
+    padding: 5px;
+}
+	
+h1, .h1 {
+  font-size: calc(1.200rem + 1.5vw);
+}
+h4, .h4 {
+  font-size: calc(1.150rem + 0.3vw);
+}
 }
 
 @media (min-width: 992px) {
@@ -10130,4 +10191,4 @@ h6,
   list-style-type: none;
 }
 
-.navbar-brand img{ width: 253px;}
+.navbar-brand img{ width: auto;}
