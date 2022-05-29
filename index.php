@@ -359,11 +359,10 @@
         <div class="container py-5">
             <div class="row align-items-end mb-4">
                 <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Meet Our Team</h6>
-                    <h1 class="section-title mb-3">Meet Our Highly Important Persons</h1>
+                    <h4 class="section-title mb-3">विद्याधनं सर्वधनं प्रधानम्:</h4>
                 </div>
                 <div class="col-lg-6">
-                    <h4 class="font-weight-normal text-muted mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </h4>
+                    <h4 class="font-weight-normal text-muted mb-3">&nbsp;</h4>
                 </div>
             </div>
             <div class="row">
