@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-2  d-none d-lg-block" style="margin: 0;padding: 0;">
-                <a href="index.html" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
+                <a href="index.php" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
                    <!-- <h1 class="m-0 display-3 text-primary">Klean</h1>-->
 					<img src="img/logo4.jpg">
                 </a>
@@ -16,7 +16,7 @@
                         </div>
                         <div class="h-100 d-inline-flex align-items-center py-2 px-2">
                             <i class="fa fa-phone-alt text-primary mr-2"></i>
-                            <small>+012 345 6789</small>
+                            <small>+91 9452665160</small>
                         </div>
                     </div>
                     <div class="col-lg-5 text-right">
@@ -50,7 +50,7 @@
                         <div class="navbar-nav mr-auto py-0">
                             <a href="index.php" class="nav-item nav-link active">Home</a>
                             <a href="about.php" class="nav-item nav-link">About</a>
-                            <a href="page.php" class="nav-item nav-link">Service</a>
+                            <a href="page.php" class="nav-item nav-link">Teachers</a>
                             <a href="contact.php" class="nav-item nav-link">Contact</a>
                         </div>
                        <!-- <a href="" class="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>-->

@@ -495,8 +495,13 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-12 pt-lg-12 pb-12">
-					<h1>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+					<h4>विद्यालय की विशेषताएं</h4>
+                    <p> उत्तर प्रदेश सरकार द्वारा दी जाने वाली छात्रवृत्ति व अन्य सुविधाएं </p>
+                    <p> बालिकाओं के लिए कन्या सुमंगला योजना बालिकाओं के लिए इंटरमीडिएट कक्षा तक गृह विज्ञान विषय के साथ चरखारी नगर ब्लॉक का एकमात्र विद्यालय</p>
+                    <p>अनुभवी शिक्षक तथा योग्य अध्यापकों द्वारा शिक्षण कार्य छात्र छात्राओं हेतु निशुल्क छात्रावास की व्यवस्था</p>
+                    <p> निर्धन छात्र छात्राओं के लिए अतिरिक्त शिक्षण व्यवस्था कक्षा 6 से 8 तक छात्रों के लिए निशुल्क पाठ्य पुस्तकें </p>
+                    <p>मध्यान्ह भोजन व यूनिफॉर्म की सुविधा उपलब्ध </p>
+                    <p>छात्रों हेतु खेलकूद की सुविधा</p>
                 </div>
               
             </div>
