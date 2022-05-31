@@ -3,10 +3,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Guman Bihari Sanskrit vidyalay charkhari</title>
+    <title>श्री गुमान बिहारी संस्कृत माध्यमिक विद्यालय चरखारी महोबा </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+   
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -27,7 +26,9 @@
 </head>
 
 <body>
-    <?php include "header.php"; ?> 
+    <!-- Header Start -->
+    <?php include "header.php";?>
+    <!-- Header End -->
 
 
     <!-- Carousel Start -->
@@ -40,7 +41,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="img-fluid" src="img/img1.jpg" alt="Image">
+                    <img class="img-fluid" src="img/slider1.jpg" alt="Image">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                           <!--  <h5 class="text-primary text-uppercase mb-md-3">Cleaning Services</h5>
@@ -358,12 +359,13 @@
     <div class="container-fluid py-5 meet-one" style="padding-top: 0 !important;">
         <div class="container py-5">
             <div class="row align-items-end mb-4">
-                <div class="col-lg-6">
-                    <h4 class="section-title mb-3">विद्याधनं सर्वधनं प्रधानम्:</h4>
+                <div class="col-lg-12">
+                    <!--<h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Meet Our Team</h6>-->
+                    <h1 class="section-title mb-3" style="text-align: center">विद्याधनं सर्वधनं प्रधानम्:</h1>
                 </div>
-                <div class="col-lg-6">
-                    <h4 class="font-weight-normal text-muted mb-3">&nbsp;</h4>
-                </div>
+                <!--<div class="col-lg-6">
+                    <h4 class="font-weight-normal text-muted mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </h4>
+                </div>-->
             </div>
             <div class="row">
                 <div class="col-12">
@@ -373,15 +375,15 @@
                                 <div class="team-img">
                                     <img class="img-fluid w-100" src="img/h3.jpg" alt="">
                                 </div>
-                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                               <!-- <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
-                                <h5 class="font-weight-bold" style="color: #fff;">Anandiben Patel</h5>
-                                <p class="text-white m-0">Governor of Uttar Pradesh</p>
+                                <h5 class="font-weight-bold" style="color: #fff;">श्रीमती आनंदीबेन पटेल</h5>
+                                <p class="text-white m-0">राज्यपाल</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -389,15 +391,15 @@
                                 <div class="team-img">
                                     <img class="img-fluid w-100" src="img/h2.jpg" alt="">
                                 </div>
-                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                               <!-- <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
-                                <h5 class="font-weight-bold" style="color: #fff;">Yogi Adityanath</h5>
-                                <p class="text-white m-0">Chief Minister of Uttar Pradesh</p>
+                                <h5 class="font-weight-bold" style="color: #fff;">योगी आदित्यनाथ</h5>
+                                <p class="text-white m-0">मुख्यमंत्री</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -405,15 +407,15 @@
                                 <div class="team-img">
                                     <img class="img-fluid w-100" src="img/h1.jpg" alt="">
                                 </div>
-                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                                <!--<div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-secondary btn-social mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                </div>-->
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
-                                <h5 class="font-weight-bold" style="color: #fff;">Dr sukhnandan mishra</h5>
-                                <p class="text-white m-0">Principal</p>
+                                <h5 class="font-weight-bold" style="color: #fff;">श्री सुखनंदन मिश्रा</h5>
+                                <p class="text-white m-0">प्रधानाचार्य</p>
                             </div>
                         </div>
                         <!--<div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -439,7 +441,25 @@
     </div>
     <!-- Team End -->
 
-
+ <div class="container-fluid py-5 lorum-ip">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-lg-9 pt-lg-12 pb-12">
+                    <h4 class="mb-4 section-title">श्री गुमान बिहारी संस्कृत माध्यमिक विद्यालय चरखारी महोबा उत्तर प्रदेश भारत </h4>
+                    <p>संस्कृत भाषा के प्रचार प्रसार के उद्देश्य से गुमान बिहारी मंदिर ट्रस्ट एवं नगर के गणमान्य नागरिकों तथा जिलाधिकारी हमीरपुर के द्वारा वर्ष 1972 में प्रारंभ किया गया वर्ष 1974 से राज्य सरकार द्वारा सहायता प्राप्त संस्था छात्र संख्या के देश से जनपद की अग्रणी अग्रणी संस्था है संस्था में वेद वेद व्याकरण साहित्य पौरोहित्य आदि विषयों के साथ आधुनिकता के दौर में कंप्यूटर शिक्षा तथा बालिकाओं के लिए गृह विज्ञान आज आदि महत्वपूर्ण विषयों विषयों का अध्ययन कुशल आचार्य द्वारा कराया जाता है </p><br>
+                    <p>विद्यालय के दाएं तरफ स्थित ऐतिहासिक मंदिर श्री कुमार बिहारी जी विद्यालय की ठीक सामने गुमान बिहारी सरोवर स्थित है जिससे विद्यालय की सुंदरता प्राकृतिक एवं नैसर्गिक तरीके से अद्वितीय है यहां के पूर्व छात्र शिक्षक चिकित्सा आदि अनेकों विभागों के उच्च पदों पर कार्यरत हैं विद्यालय वर्तमान समय में व्यवसायिक एवं रोजगार रोजगार परक शिक्षा का महोबा जनपद का प्रमुख केंद्र है</p>
+                    
+                </div>
+                
+                <div class="col-lg-3 pt-lg-12 pb-12 notification">
+                <h4>आवश्यक सूचनाएं</h4>
+                <h6>उत्तर प्रदेश सरकार द्वारा दी जाने वाली छात्रवृत्ति </h6>
+                <marquee direction = "up">text here</marquee>
+                </div>
+              
+            </div>
+        </div>
+    </div>
     <!-- Testimonial Start -->
     <div class="container-fluid bg-testimonial py-5">
         <div class="container py-5">
@@ -488,29 +508,86 @@
             </div>
         </div>
     </div>
-	
-	
-	  <div class="container-fluid py-5 lorum-ip">
-        <div class="container py-5">
-            <div class="row">
-                <div class="col-lg-12 pt-lg-12 pb-12">
-					<h4>विद्यालय की विशेषताएं</h4>
-                    <p> उत्तर प्रदेश सरकार द्वारा दी जाने वाली छात्रवृत्ति व अन्य सुविधाएं </p>
-                    <p> बालिकाओं के लिए कन्या सुमंगला योजना बालिकाओं के लिए इंटरमीडिएट कक्षा तक गृह विज्ञान विषय के साथ चरखारी नगर ब्लॉक का एकमात्र विद्यालय</p>
-                    <p>अनुभवी शिक्षक तथा योग्य अध्यापकों द्वारा शिक्षण कार्य छात्र छात्राओं हेतु निशुल्क छात्रावास की व्यवस्था</p>
-                    <p> निर्धन छात्र छात्राओं के लिए अतिरिक्त शिक्षण व्यवस्था कक्षा 6 से 8 तक छात्रों के लिए निशुल्क पाठ्य पुस्तकें </p>
-                    <p>मध्यान्ह भोजन व यूनिफॉर्म की सुविधा उपलब्ध </p>
-                    <p>छात्रों हेतु खेलकूद की सुविधा</p>
-                </div>
-              
-            </div>
-        </div>
-    </div>
-		
+    
+    
+     
+        
 
     <!-- Testimonial End -->
 
-    <?php include "footer.php"; ?>
+
+    <!-- Blog Start -->
+   <!-- <div class="container-fluid pt-5">
+        <div class="container pt-5">
+            <div class="row align-items-end mb-4">
+                <div class="col-lg-6">
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Latest Blog</h6>
+                    <h1 class="section-title mb-3">Latest Articles From Our Blog Post</h1>
+                </div>
+                <div class="col-lg-6">
+                    <h4 class="font-weight-normal text-muted mb-3">Eirmod kasd duo eos et magna, diam dolore stet sea clita sit ea erat lorem. Ipsum eos ipsum magna lorem stet</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-1.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">01</h4>
+                            <small class="text-white text-uppercase">Jan</small>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-2">
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Admin</a>
+                        <span class="text-primary px-2">|</span>
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Cleaning</a>
+                    </div>
+                    <h5 class="font-weight-medium mb-2">Rebum lorem eos ipsum diam</h5>
+                    <p class="mb-4">Dolor justo sea kasd lorem clita justo no diam amet. Kasd magna dolor amet</p>
+                    <a class="btn btn-sm btn-primary py-2" href="">Read More</a>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-2.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">01</h4>
+                            <small class="text-white text-uppercase">Jan</small>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-2">
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Admin</a>
+                        <span class="text-primary px-2">|</span>
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Cleaning</a>
+                    </div>
+                    <h5 class="font-weight-medium mb-2">Rebum lorem eos ipsum diam</h5>
+                    <p class="mb-4">Dolor justo sea kasd lorem clita justo no diam amet. Kasd magna dolor amet</p>
+                    <a class="btn btn-sm btn-primary py-2" href="">Read More</a>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-3.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">01</h4>
+                            <small class="text-white text-uppercase">Jan</small>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-2">
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Admin</a>
+                        <span class="text-primary px-2">|</span>
+                        <a class="text-secondary text-uppercase font-weight-medium" href="">Cleaning</a>
+                    </div>
+                    <h5 class="font-weight-medium mb-2">Rebum lorem eos ipsum diam</h5>
+                    <p class="mb-4">Dolor justo sea kasd lorem clita justo no diam amet. Kasd magna dolor amet</p>
+                    <a class="btn btn-sm btn-primary py-2" href="">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Blog End -->
+
+
+    <!-- Footer Start -->
+    <?php  include 'footer.php'; ?>
 </body>
 
 </html>
